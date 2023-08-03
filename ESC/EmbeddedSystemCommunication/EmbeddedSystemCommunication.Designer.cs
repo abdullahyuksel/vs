@@ -95,6 +95,7 @@
             MainMenuStrip = menuStrip1;
             Name = "EmbeddedSystemCommunication";
             Text = "Embedded System Communication";
+            Load += EmbeddedSystemCommunication_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);

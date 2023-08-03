@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj": {}
+    "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj": {}
   },
   "projects": {
-    "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj": {
+    "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
+        "projectUniqueName": "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
         "projectName": "EmbeddedSystemCommunication",
-        "projectPath": "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
+        "projectPath": "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\obj\\",
+        "outputPath": "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,7 +30,7 @@
         },
         "frameworks": {
           "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+            "targetAlias": "net6.0-windows7.0",
             "projectReferences": {}
           }
         },
@@ -42,7 +42,7 @@
       },
       "frameworks": {
         "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+          "targetAlias": "net6.0-windows7.0",
           "imports": [
             "net461",
             "net462",

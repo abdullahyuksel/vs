@@ -1,0 +1,14 @@
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\bin\Debug\EmbeddedStockProject.exe.config
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\bin\Debug\EmbeddedStockProject.exe
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\bin\Debug\EmbeddedStockProject.pdb
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.csproj.AssemblyReference.cache
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.csproj.SuggestedBindingRedirects.cache
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.About.resources
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.EmbeddedMain.resources
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.Main.resources
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.Properties.Resources.resources
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.Settings.resources
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.csproj.GenerateResource.cache
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.csproj.CoreCompileInputs.cache
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.exe
+D:\vsEgitim\EmbeddedStockProject\EmbeddedStockProject\EmbeddedStockProject\obj\Debug\EmbeddedStockProject.pdb

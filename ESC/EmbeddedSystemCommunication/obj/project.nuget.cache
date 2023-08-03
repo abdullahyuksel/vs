@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NOfDtcyE+4xkwTmYD77prhdoXeqtUOI5Pm2+Rnn9BE9mMpqNuWC2SeHNYmg5G3PGf8VgrNkAhKMeRpieOv1Odg==",
+  "dgSpecHash": "EmWYJHdFWeriLeK2OmiJKhTIqGTef6/rgvRklXlg3rbJoZN5VGkLqKDTMW+f5Dcf4M6pFcRcQ9tRPjQlZ5mfZg==",
   "success": true,
-  "projectFilePath": "D:\\gitHub\\vs\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
+  "projectFilePath": "D:\\gitHub\\vs\\ESC\\EmbeddedSystemCommunication\\EmbeddedSystemCommunication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

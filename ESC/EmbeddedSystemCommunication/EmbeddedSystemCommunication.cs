@@ -33,5 +33,10 @@ namespace EmbeddedSystemCommunication
         {
             loadform(new About());
         }
+
+        private void EmbeddedSystemCommunication_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

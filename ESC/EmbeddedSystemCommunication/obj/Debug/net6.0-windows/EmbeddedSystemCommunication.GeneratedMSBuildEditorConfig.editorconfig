@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmbeddedSystemCommunication
-build_property.ProjectDir = D:\gitHub\vs\EmbeddedSystemCommunication\EmbeddedSystemCommunication\
+build_property.ProjectDir = D:\gitHub\vs\ESC\EmbeddedSystemCommunication\
