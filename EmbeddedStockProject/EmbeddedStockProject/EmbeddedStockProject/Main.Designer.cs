@@ -54,7 +54,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
             this.label9 = new System.Windows.Forms.Label();
             this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.radioButton4 = new System.Windows.Forms.RadioButton();
@@ -66,6 +65,7 @@
             this.button9 = new System.Windows.Forms.Button();
             this.sendMessage = new System.Windows.Forms.TextBox();
             this.labelEvent = new System.Windows.Forms.Label();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -322,7 +322,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.radioButton6);
+            this.groupBox2.Controls.Add(this.checkBox1);
             this.groupBox2.Controls.Add(this.label9);
             this.groupBox2.Controls.Add(this.radioButton5);
             this.groupBox2.Controls.Add(this.radioButton4);
@@ -336,17 +336,6 @@
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Receive Messages";
-            // 
-            // radioButton6
-            // 
-            this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(618, 90);
-            this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(119, 17);
-            this.radioButton6.TabIndex = 7;
-            this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "Receiving Message";
-            this.radioButton6.UseVisualStyleBackColor = true;
             // 
             // label9
             // 
@@ -463,6 +452,17 @@
             this.labelEvent.Size = new System.Drawing.Size(0, 13);
             this.labelEvent.TabIndex = 3;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(617, 91);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(120, 17);
+            this.checkBox1.TabIndex = 7;
+            this.checkBox1.Text = "Receiving Message";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -525,7 +525,7 @@
         private System.Windows.Forms.RadioButton radioButton3;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton6;
         private System.Windows.Forms.Label labelEvent;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
